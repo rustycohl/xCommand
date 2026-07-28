@@ -2,7 +2,7 @@
 
 Deterministic tactical authority with a strict Base-10 action economy.
 
-This is an independent Ground Zero Gaming server-card port:
+This is an independent Ground Zero Games server-card port:
 
 - repository: `rustycohl/xCommand`
 - Page: https://rustycohl.github.io/xCommand/
