@@ -1,0 +1,30 @@
+{
+  "schema": "gzg.server-card/0.1",
+  "id": "xCommand",
+  "version": "0.1.0-alpha.1",
+  "status": "alpha",
+  "tier": 4,
+  "purpose": "Deterministic tactical authority with a strict Base-10 action economy.",
+  "flag": "DEDICATED_REPO_PAGE",
+  "repository": {
+    "required": true,
+    "independent": true,
+    "full_name": "rustycohl/xCommand"
+  },
+  "page": {
+    "required": true,
+    "url": "https://rustycohl.github.io/xCommand/"
+  },
+  "authority": {
+    "game_server": "none",
+    "state": "deterministic-local-evidence",
+    "joke_chain": "not-implemented"
+  },
+  "dependencies": [
+    {
+      "id": "d10SRD",
+      "page": "https://rustycohl.github.io/d10SRD/",
+      "runtime_required": false
+    }
+  ]
+}
